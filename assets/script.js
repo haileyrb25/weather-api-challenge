@@ -1,6 +1,6 @@
-const
-const
-const
+const searchHistory = [];
+const weatherapiUrl = "https://api.openweathermap.org/";
+const apiKey = "b4bd8eb5664abf13763c667594a43480";
 
 
 
